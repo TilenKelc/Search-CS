@@ -1,0 +1,9 @@
+C:\Users\Tilen\source\repos\iskanje\bin\Debug\iskanje.exe.config
+C:\Users\Tilen\source\repos\iskanje\bin\Debug\iskanje.exe
+C:\Users\Tilen\source\repos\iskanje\bin\Debug\iskanje.pdb
+C:\Users\Tilen\source\repos\iskanje\obj\Debug\iskanje.csprojAssemblyReference.cache
+C:\Users\Tilen\source\repos\iskanje\obj\Debug\iskanje.Form1.resources
+C:\Users\Tilen\source\repos\iskanje\obj\Debug\iskanje.Properties.Resources.resources
+C:\Users\Tilen\source\repos\iskanje\obj\Debug\iskanje.csproj.GenerateResource.cache
+C:\Users\Tilen\source\repos\iskanje\obj\Debug\iskanje.exe
+C:\Users\Tilen\source\repos\iskanje\obj\Debug\iskanje.pdb
